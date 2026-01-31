@@ -1,4 +1,4 @@
-<h3 align="center">Languages & technologies</h3>
+<h2 align="center">Languages & technologies</h3>
 
 <div align="center">
   <div>
